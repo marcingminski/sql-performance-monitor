@@ -3790,7 +3790,7 @@
               "links": [
                 {
                   "title": "Wait Events",
-                  "url": "/d/sqlwatchwaits/wait-events?${__url_time_range}"
+                  "url": "/d/sqlwatch-wait-events/wait-events?${__url_time_range}"
                 }
               ],
               "thresholds": {
